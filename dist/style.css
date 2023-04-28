@@ -51,12 +51,14 @@ canvas {
 
   section {
     grid-column: 2 / 8;
-    padding: 1rem;
+    padding: 3rem;
     background: var(--dark-bg);
     font-size: 1.25rem;
     line-height: 1.5;
     margin-bottom: var(--spacing);
     border-radius: 2rem;
+    width:60%;
+    margin: 8rem;
   }
 
   blockquote {
